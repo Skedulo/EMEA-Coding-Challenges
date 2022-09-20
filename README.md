@@ -1,4 +1,4 @@
-# # EMEA Coding Challenges Page
+# # DRAFT EMEA Coding Challenges Page
 
 Welcome to the Skedulo coding challenges page, this page is to help you choose which type of test you would like to do for your coding challenge as part of the interview process for Skedulo.
 
