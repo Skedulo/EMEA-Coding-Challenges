@@ -3,7 +3,7 @@
 Welcome to the Skedulo coding challenges page, this page is to help you choose which type of test you would like to do for your coding challenge as part of the interview process for Skedulo.
 
  \
-We know everyone is different so we wanted to offer a choice on how you would like to go about the coding challenge part of the interview.
+We know everyone is different so we want to offer a choice on how you would like to go about the coding challenge part of the interview.
 
 
 # The Options
