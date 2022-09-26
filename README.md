@@ -11,7 +11,7 @@ We know everyone is different so we want to offer a choice on how you would like
 
 ## Option 1: (Insert Link for BE & FE)
 
-# Front end test: https://github.com/Skedulo/frontend-tech-test
+**Front end test: https://github.com/Skedulo/frontend-tech-test**
 
 
 
