@@ -5,14 +5,12 @@ Welcome to the Skedulo coding challenges page, this page is to help you choose w
  \
 We know everyone is different so we want to offer a choice on how you would like to go about the coding challenge part of the interview.
 
+# Our tests:
+**Front end test: https://github.com/Skedulo/frontend-tech-test**
 
 # The Options
 
-
 ## Option 1: (Insert Link for BE & FE)
-
-**Front end test: https://github.com/Skedulo/frontend-tech-test**
-
 
 
 * A take-home test of around an hour, we don't care about “completing” the challenge as this is more about you having some code that we can then go through in person as part of a pairing & peer review.
