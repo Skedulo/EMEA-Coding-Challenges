@@ -26,3 +26,14 @@ We know everyone is different so we want to offer a choice on how you would like
 
 
 * Straight to a pairing exercise. This is where you will pair up with one of the Skedulo engineers and complete a challenge just like you would when normally pairing on a task on a day-to-day basis.
+
+
+## Overall Guidance for our tests
+For either a take home test or pairing up with one of our engineers, keep the following in mind:
+Approach this problem any way you like, we are not expecting perfection or a specific solution.
+
+The test should only take about an hour, don't feel you have to rush a solution but dont feel that you need to complete the whole test either, you will not be judged on whether you finish or not. 
+We would much rather you give us a solution that you are proud of and feel best displays the type of code you are happy with, as time is limited you might not get to the kind of solution you would want to ship so please call that out (either in the readme or in person if pairing).
+
+Tests are not a hard requirement but are strongly encouraged; feel free to choose what coverage you want to do for this test.
+
