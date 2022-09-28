@@ -1,3 +1,5 @@
+![Alt text](https://github.com/Skedulo/frontend-tech-test/blob/main/public/skedulo-logo.png "Optional title")
+
 ## EMEA Coding Challenges Page
 
 Welcome to the Skedulo coding challenges page, this page is to help you choose which type of test you would like to do for your coding challenge as part of the interview process at Skedulo.
