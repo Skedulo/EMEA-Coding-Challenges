@@ -1,4 +1,4 @@
-![Alt text](https://github.com/Skedulo/frontend-tech-test/blob/main/public/skedulo-logo.png)
+![Skedulo Logo](https://github.com/Skedulo/frontend-tech-test/blob/main/public/skedulo-logo.png)
 
 ## EMEA Coding Challenges Page
 
