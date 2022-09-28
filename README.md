@@ -2,11 +2,12 @@
 
 Welcome to the Skedulo coding challenges page, this page is to help you choose which type of test you would like to do for your coding challenge as part of the interview process at Skedulo.
 
- \
+
 We know everyone is different so we want to offer a choice on how you would like to go about the coding challenge part of the interview.
 
 ## Our tests:
 **Front end test: https://github.com/Skedulo/frontend-tech-test**
+
 **Back end test: https://github.com/Skedulo/backend-tech-test/tree/skeleton/kotlin**
 
 ## The Options
